@@ -1,0 +1,22 @@
+{
+  "name": "qralacarta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goncalveslucasv/qr-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goncalveslucasv/qr-landing/issues"
+  },
+  "homepage": "https://github.com/goncalveslucasv/qr-landing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
